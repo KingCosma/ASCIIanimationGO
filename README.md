@@ -6,5 +6,5 @@ In the index.txt file type out the animations frame by frame. This specific piec
 Copy the "src" directory to your machine. Then find "index.txt" example file. edit it as your will and run the "main.go" program and enjoy your creation
 
 ![demo](https://i.imgur.com/WFLIjEG.gif)
- <br />
+ <br>
 the above gif is a demo!
